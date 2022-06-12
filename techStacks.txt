@@ -1,1 +1,24 @@
+1. FRONTEND WEB DEV (IMPORTANT)
+
+HTML5 (/100)
+CSS3 (/100)
+JavaScript
+- React (/100)
+- Vue (/100)
+- Next (/100)
+- Angular (/100)
+
+UI
+- SCSS (/100)
+- TAILWIND (/100)
+
+2. BACKEND WEB DEV
+
+Linux (/100)
+MYSQL (/100)
+POSTGRESQL (/100)
+MONGODB (/100)
+Firebase (/100)
+NODE.JS (/100)
+
 
